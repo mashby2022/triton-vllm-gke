@@ -1,6 +1,6 @@
 # GKE Autopilot
-export PROJECT_ID=<your-project-id>
-export HF_TOKEN=<paste-your-own-token>
+export PROJECT_ID=class-426015
+export HF_TOKEN= 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
 export REGION=us-central1
 export ZONE_1=${REGION}-a # You may want to change the zone letter based on the region you selected above
 export ZONE_2=${REGION}-b # You may want to change the zone letter based on the region you selected above
